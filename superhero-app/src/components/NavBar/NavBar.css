@@ -1,0 +1,16 @@
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    position: sticky;
+}
+
+.navbar-color{
+    background-color: rgba(115, 112, 112, 0.673);
+}
+
+.brand-container{
+    color: #fff;
+    padding: 10px;
+}
