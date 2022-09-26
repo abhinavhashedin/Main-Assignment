@@ -1,0 +1,15 @@
+.super-container{
+    background-color: hsla(210, 20%, 90%, 1);
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hall-of-fame{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 25px;
+}
